@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=KontrolorMusteri
+comment1.params=
+comment1.target=KontrolorMusteri()
+comment2.params=musteriAdi\ musteriSoyadi\ telefonNu\ adresi
+comment2.target=void\ MusteriBilgileriKay\u0131t(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=3

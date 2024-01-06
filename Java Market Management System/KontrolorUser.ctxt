@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=KontrolorUser
+comment1.params=
+comment1.target=KontrolorUser()
+comment2.params=p_kullaniciID\ p_kullaniciAdi\ p_kullaniciSoyadi\ p_kullaniciSifresi
+comment2.target=void\ userBilgileriKayit(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=3

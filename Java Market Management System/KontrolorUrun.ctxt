@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=KontrolorUrun
+comment1.params=
+comment1.target=KontrolorUrun()
+comment2.params=p_urunID\ p_urunAdi
+comment2.target=void\ urunBilgileriKayit(java.lang.String,\ java.lang.String)
+numComments=3

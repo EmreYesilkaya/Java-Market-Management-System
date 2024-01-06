@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=KontrolorSiparisVeOdeme
+comment1.params=
+comment1.target=KontrolorSiparisVeOdeme()
+comment2.params=p_siparisID
+comment2.target=void\ siparisVeOdemeBilgileriKayit(java.lang.String)
+numComments=3
